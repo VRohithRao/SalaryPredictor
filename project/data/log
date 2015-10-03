@@ -1,0 +1,881 @@
+### Logistic Regression: Vary ridge estimator
+====================
+Classifier Name: Logistic Regression
+Options: [-R, -10.0, -M, -1, ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.27103559870550165
+Confusion Matrix:
+1910.0	514.0	
+826.0	1694.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.18729773462783172
+Confusion Matrix:
+2154.0	318.0	
+608.0	1864.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.1982200647249191
+Confusion Matrix:
+2050.0	471.0	
+509.0	1914.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.18385922330097088
+Confusion Matrix:
+2091.0	332.0	
+577.0	1944.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.20408576051779936
+Confusion Matrix:
+2035.0	400.0	
+609.0	1900.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.20813106796116504
+Confusion Matrix:
+2025.0	438.0	
+591.0	1890.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.18729773462783172
+Confusion Matrix:
+2018.0	419.0	
+507.0	2000.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.21359223300970873
+Confusion Matrix:
+1907.0	509.0	
+547.0	1981.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.20044498381877024
+Confusion Matrix:
+2028.0	457.0	
+534.0	1925.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.20590614886731393
+Confusion Matrix:
+1985.0	471.0	
+547.0	1941.0	
+************* Average Error Rate: 0.20598705501618123 *************
+*************[-logr -R -10] 0.20598705501618123 *************
+====================
+Classifier Name: Logistic Regression
+Options: [-R, -9.0, -M, -1, ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.2032766990291262
+Confusion Matrix:
+2108.0	346.0	
+659.0	1831.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.222289644012945
+Confusion Matrix:
+2077.0	404.0	
+695.0	1768.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.22390776699029127
+Confusion Matrix:
+1988.0	423.0	
+684.0	1849.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.23745954692556634
+Confusion Matrix:
+1922.0	484.0	
+690.0	1848.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.19902912621359223
+Confusion Matrix:
+2081.0	374.0	
+610.0	1879.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.2089401294498382
+Confusion Matrix:
+2067.0	414.0	
+619.0	1844.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.20266990291262135
+Confusion Matrix:
+2089.0	343.0	
+659.0	1853.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.20449029126213591
+Confusion Matrix:
+2077.0	377.0	
+634.0	1856.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.2008495145631068
+Confusion Matrix:
+2067.0	378.0	
+615.0	1884.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.20833333333333334
+Confusion Matrix:
+2055.0	397.0	
+633.0	1859.0	
+************* Average Error Rate: 0.2111245954692557 *************
+*************[-logr -R -9] 0.2111245954692557 *************
+====================
+Classifier Name: Logistic Regression
+Options: [-R, -8.0, -M, -1, ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.18385922330097088
+Confusion Matrix:
+2145.0	360.0	
+549.0	1890.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.1836569579288026
+Confusion Matrix:
+2068.0	370.0	
+538.0	1968.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.18284789644012944
+Confusion Matrix:
+2095.0	340.0	
+564.0	1945.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.1901294498381877
+Confusion Matrix:
+2190.0	318.0	
+622.0	1814.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.18648867313915857
+Confusion Matrix:
+2147.0	337.0	
+585.0	1875.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.18608414239482202
+Confusion Matrix:
+2095.0	370.0	
+550.0	1929.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.20246763754045308
+Confusion Matrix:
+2047.0	381.0	
+620.0	1896.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.18183656957928804
+Confusion Matrix:
+2147.0	372.0	
+527.0	1898.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.18446601941747573
+Confusion Matrix:
+2107.0	335.0	
+577.0	1925.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.18143203883495146
+Confusion Matrix:
+2173.0	348.0	
+549.0	1874.0	
+************* Average Error Rate: 0.18632686084142397 *************
+*************[-logr -R -8] 0.18632686084142397 *************
+====================
+Classifier Name: Logistic Regression
+Options: [-R, -7.0, -M, -1, ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.2366504854368932
+Confusion Matrix:
+2089.0	385.0	
+785.0	1685.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.2483818770226537
+Confusion Matrix:
+2094.0	399.0	
+829.0	1622.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.2259304207119741
+Confusion Matrix:
+2044.0	458.0	
+659.0	1783.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.19862459546925568
+Confusion Matrix:
+2095.0	330.0	
+652.0	1867.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.20509708737864077
+Confusion Matrix:
+2152.0	377.0	
+637.0	1778.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.22269417475728157
+Confusion Matrix:
+2052.0	368.0	
+733.0	1791.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.22653721682847897
+Confusion Matrix:
+2007.0	417.0	
+703.0	1817.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.22006472491909385
+Confusion Matrix:
+2046.0	413.0	
+675.0	1810.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.27467637540453077
+Confusion Matrix:
+1992.0	507.0	
+851.0	1594.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.23563915857605178
+Confusion Matrix:
+2052.0	429.0	
+736.0	1727.0	
+************* Average Error Rate: 0.22942961165048542 *************
+*************[-logr -R -7] 0.22942961165048542 *************
+====================
+Classifier Name: Logistic Regression
+Options: [-R, -6.0, -M, -1, ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.19862459546925568
+Confusion Matrix:
+2153.0	321.0	
+661.0	1809.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.17657766990291263
+Confusion Matrix:
+2084.0	326.0	
+547.0	1987.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.19114077669902912
+Confusion Matrix:
+2048.0	406.0	
+539.0	1951.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.20550161812297735
+Confusion Matrix:
+2078.0	334.0	
+682.0	1850.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.21096278317152103
+Confusion Matrix:
+2090.0	411.0	
+632.0	1811.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.216626213592233
+Confusion Matrix:
+2055.0	396.0	
+675.0	1818.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.1915453074433657
+Confusion Matrix:
+2114.0	379.0	
+568.0	1883.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.18729773462783172
+Confusion Matrix:
+2138.0	350.0	
+576.0	1880.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.17758899676375406
+Confusion Matrix:
+2091.0	371.0	
+507.0	1975.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.20752427184466019
+Confusion Matrix:
+2074.0	355.0	
+671.0	1844.0	
+************* Average Error Rate: 0.19633899676375405 *************
+*************[-logr -R -6] 0.19633899676375405 *************
+====================
+Classifier Name: Logistic Regression
+Options: [-R, -5.0, -M, -1, ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.19761326860841424
+Confusion Matrix:
+2047.0	366.0	
+611.0	1920.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.1862864077669903
+Confusion Matrix:
+2125.0	364.0	
+557.0	1898.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.18426375404530745
+Confusion Matrix:
+2167.0	347.0	
+564.0	1866.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.18021844660194175
+Confusion Matrix:
+2113.0	353.0	
+538.0	1940.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.19397249190938512
+Confusion Matrix:
+2069.0	362.0	
+597.0	1916.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.19215210355987056
+Confusion Matrix:
+2123.0	394.0	
+556.0	1871.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.1824433656957929
+Confusion Matrix:
+2132.0	366.0	
+536.0	1910.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.20631067961165048
+Confusion Matrix:
+2065.0	386.0	
+634.0	1859.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.190331715210356
+Confusion Matrix:
+2109.0	381.0	
+560.0	1894.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.17637540453074432
+Confusion Matrix:
+2131.0	365.0	
+507.0	1941.0	
+************* Average Error Rate: 0.18899676375404534 *************
+*************[-logr -R -5] 0.18899676375404534 *************
+====================
+Classifier Name: Logistic Regression
+Options: [-R, -4.0, -M, -1, ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.19114077669902912
+Confusion Matrix:
+2139.0	349.0	
+596.0	1860.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.16788025889967637
+Confusion Matrix:
+2125.0	355.0	
+475.0	1989.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.18851132686084143
+Confusion Matrix:
+2073.0	355.0	
+577.0	1939.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.19882686084142395
+Confusion Matrix:
+2049.0	385.0	
+598.0	1912.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.17920711974110032
+Confusion Matrix:
+2178.0	322.0	
+564.0	1880.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.18446601941747573
+Confusion Matrix:
+2095.0	375.0	
+537.0	1937.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.18446601941747573
+Confusion Matrix:
+2101.0	377.0	
+535.0	1931.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.18264563106796117
+Confusion Matrix:
+2081.0	375.0	
+528.0	1960.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.18709546925566342
+Confusion Matrix:
+2059.0	361.0	
+564.0	1960.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.1824433656957929
+Confusion Matrix:
+2067.0	378.0	
+524.0	1975.0	
+************* Average Error Rate: 0.184668284789644 *************
+*************[-logr -R -4] 0.184668284789644 *************
+====================
+Classifier Name: Logistic Regression
+Options: [-R, -3.0, -M, -1, ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.20165857605177995
+Confusion Matrix:
+2106.0	382.0	
+615.0	1841.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.1915453074433657
+Confusion Matrix:
+2122.0	351.0	
+596.0	1875.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.19174757281553398
+Confusion Matrix:
+2099.0	368.0	
+580.0	1897.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.1887135922330097
+Confusion Matrix:
+2150.0	331.0	
+602.0	1861.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.1913430420711974
+Confusion Matrix:
+2095.0	343.0	
+603.0	1903.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.18770226537216828
+Confusion Matrix:
+2125.0	340.0	
+588.0	1891.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.18021844660194175
+Confusion Matrix:
+2063.0	362.0	
+529.0	1990.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.18810679611650485
+Confusion Matrix:
+2166.0	302.0	
+628.0	1848.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.18770226537216828
+Confusion Matrix:
+2206.0	346.0	
+582.0	1810.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.18042071197411003
+Confusion Matrix:
+2122.0	336.0	
+556.0	1930.0	
+************* Average Error Rate: 0.188915857605178 *************
+*************[-logr -R -3] 0.188915857605178 *************
+====================
+Classifier Name: Logistic Regression
+Options: [-R, -2.0, -M, -1, ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.17779126213592233
+Confusion Matrix:
+2213.0	345.0	
+534.0	1852.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.18325242718446602
+Confusion Matrix:
+2105.0	358.0	
+548.0	1933.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.1858818770226537
+Confusion Matrix:
+2109.0	372.0	
+547.0	1916.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.18810679611650485
+Confusion Matrix:
+2143.0	380.0	
+550.0	1871.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.18406148867313915
+Confusion Matrix:
+2087.0	367.0	
+543.0	1947.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.18183656957928804
+Confusion Matrix:
+2076.0	378.0	
+521.0	1969.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.1953883495145631
+Confusion Matrix:
+2098.0	371.0	
+595.0	1880.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.19781553398058252
+Confusion Matrix:
+2075.0	395.0	
+583.0	1891.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.18021844660194175
+Confusion Matrix:
+2133.0	369.0	
+522.0	1920.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.18648867313915857
+Confusion Matrix:
+2101.0	382.0	
+540.0	1921.0	
+************* Average Error Rate: 0.18608414239482202 *************
+*************[-logr -R -2] 0.18608414239482202 *************
+====================
+Classifier Name: Logistic Regression
+Options: [-R, -1.0, -M, -1, ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.18709546925566342
+Confusion Matrix:
+2145.0	382.0	
+543.0	1874.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.17738673139158576
+Confusion Matrix:
+2126.0	341.0	
+536.0	1941.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.18851132686084143
+Confusion Matrix:
+2156.0	330.0	
+602.0	1856.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.17981391585760517
+Confusion Matrix:
+2150.0	320.0	
+569.0	1905.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.1824433656957929
+Confusion Matrix:
+2147.0	322.0	
+580.0	1895.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.17880258899676377
+Confusion Matrix:
+2183.0	300.0	
+584.0	1877.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.17698220064724918
+Confusion Matrix:
+2158.0	331.0	
+544.0	1911.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.18972491909385114
+Confusion Matrix:
+2144.0	341.0	
+597.0	1862.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.17920711974110032
+Confusion Matrix:
+2208.0	313.0	
+573.0	1850.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.1927588996763754
+Confusion Matrix:
+2102.0	306.0	
+647.0	1889.0	
+************* Average Error Rate: 0.18327265372168283 *************
+*************[-logr -R -1] 0.18327265372168283 *************
+====================
+Classifier Name: Logistic Regression
+Options: [-R, 0.0, -M, -1, ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.1783980582524272
+Confusion Matrix:
+2092.0	391.0	
+491.0	1970.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.17698220064724918
+Confusion Matrix:
+2079.0	342.0	
+533.0	1990.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.1779935275080906
+Confusion Matrix:
+2085.0	343.0	
+537.0	1979.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.1836569579288026
+Confusion Matrix:
+2099.0	394.0	
+514.0	1937.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.17597087378640777
+Confusion Matrix:
+2077.0	382.0	
+488.0	1997.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.1848705501618123
+Confusion Matrix:
+2071.0	322.0	
+592.0	1959.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.1755663430420712
+Confusion Matrix:
+2162.0	357.0	
+511.0	1914.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.17495954692556634
+Confusion Matrix:
+2114.0	342.0	
+523.0	1965.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.1767799352750809
+Confusion Matrix:
+2029.0	387.0	
+487.0	2041.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.1755663430420712
+Confusion Matrix:
+2100.0	350.0	
+518.0	1976.0	
+************* Average Error Rate: 0.1780744336569579 *************
+*************[-logr -R 0] 0.1780744336569579 *************
+====================
+Classifier Name: Logistic Regression
+Options: [-R, 1.0, -M, -1, ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.18021844660194175
+Confusion Matrix:
+2054.0	396.0	
+495.0	1999.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.19741100323624594
+Confusion Matrix:
+2001.0	412.0	
+564.0	1967.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.16970064724919093
+Confusion Matrix:
+2094.0	362.0	
+477.0	2011.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.18406148867313915
+Confusion Matrix:
+2056.0	371.0	
+539.0	1978.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.190331715210356
+Confusion Matrix:
+2137.0	359.0	
+582.0	1866.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.17698220064724918
+Confusion Matrix:
+2106.0	374.0	
+501.0	1963.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.17030744336569578
+Confusion Matrix:
+2067.0	358.0	
+484.0	2035.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.18952265372168284
+Confusion Matrix:
+2112.0	376.0	
+561.0	1895.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.17455501618122976
+Confusion Matrix:
+2059.0	375.0	
+488.0	2022.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.17192556634304207
+Confusion Matrix:
+2147.0	355.0	
+495.0	1947.0	
+************* Average Error Rate: 0.18050161812297733 *************
+*************[-logr -R 1] 0.18050161812297733 *************
+====================
+Classifier Name: Logistic Regression
+Options: [-R, 2.0, -M, -1, ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.17981391585760517
+Confusion Matrix:
+2041.0	373.0	
+516.0	2014.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.17779126213592233
+Confusion Matrix:
+2127.0	373.0	
+506.0	1938.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.16909385113268607
+Confusion Matrix:
+2069.0	353.0	
+483.0	2039.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.1781957928802589
+Confusion Matrix:
+2125.0	383.0	
+498.0	1938.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.1717233009708738
+Confusion Matrix:
+2123.0	388.0	
+461.0	1972.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.17940938511326862
+Confusion Matrix:
+2073.0	386.0	
+501.0	1984.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.1779935275080906
+Confusion Matrix:
+2023.0	385.0	
+495.0	2041.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.16929611650485438
+Confusion Matrix:
+2083.0	357.0	
+480.0	2024.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.17940938511326862
+Confusion Matrix:
+2125.0	383.0	
+504.0	1932.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.1727346278317152
+Confusion Matrix:
+2068.0	349.0	
+505.0	2022.0	
+************* Average Error Rate: 0.17554611650485435 *************
+*************[-logr -R 2] 0.17554611650485435 *************
+====================
+Classifier Name: Logistic Regression
+Options: [-R, 3.0, -M, -1, ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.16808252427184467
+Confusion Matrix:
+2077.0	378.0	
+453.0	2036.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.17495954692556634
+Confusion Matrix:
+2069.0	349.0	
+516.0	2010.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.16970064724919093
+Confusion Matrix:
+2110.0	355.0	
+484.0	1995.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.1688915857605178
+Confusion Matrix:
+2096.0	345.0	
+490.0	2013.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.1781957928802589
+Confusion Matrix:
+2082.0	371.0	
+510.0	1981.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.1739482200647249
+Confusion Matrix:
+2137.0	370.0	
+490.0	1947.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.17050970873786409
+Confusion Matrix:
+2095.0	379.0	
+464.0	2006.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.1824433656957929
+Confusion Matrix:
+2113.0	379.0	
+523.0	1929.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.1779935275080906
+Confusion Matrix:
+2069.0	393.0	
+487.0	1995.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.18122977346278318
+Confusion Matrix:
+2047.0	382.0	
+514.0	2001.0	
+************* Average Error Rate: 0.17459546925566344 *************
+*************[-logr -R 3] 0.17459546925566344 *************
+====================
+Classifier Name: Logistic Regression
+Options: [-R, 4.0, -M, -1, ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.17900485436893204
+Confusion Matrix:
+2173.0	378.0	
+507.0	1886.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.17354368932038836
+Confusion Matrix:
+2105.0	351.0	
+507.0	1981.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.1808252427184466
+Confusion Matrix:
+2154.0	358.0	
+536.0	1896.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.17698220064724918
+Confusion Matrix:
+2130.0	351.0	
+524.0	1939.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.17617313915857605
+Confusion Matrix:
+2106.0	373.0	
+498.0	1967.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.17475728155339806
+Confusion Matrix:
+2147.0	376.0	
+488.0	1933.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.17354368932038836
+Confusion Matrix:
+2199.0	365.0	
+493.0	1887.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.17435275080906149
+Confusion Matrix:
+2142.0	328.0	
+534.0	1940.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.17779126213592233
+Confusion Matrix:
+2119.0	368.0	
+511.0	1946.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.1739482200647249
+Confusion Matrix:
+2142.0	369.0	
+491.0	1942.0	
+************* Average Error Rate: 0.17609223300970872 *************
+*************[-logr -R 4] 0.17609223300970872 *************
+====================
+Classifier Name: Logistic Regression
+Options: [-R, 5.0, -M, -1, ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.1783980582524272
+Confusion Matrix:
+2096.0	367.0	
+515.0	1966.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.1727346278317152
+Confusion Matrix:
+2075.0	336.0	
+518.0	2015.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.17920711974110032
+Confusion Matrix:
+2098.0	383.0	
+503.0	1960.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.18042071197411003
+Confusion Matrix:
+2098.0	399.0	
+493.0	1954.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.18709546925566342
+Confusion Matrix:
+2063.0	370.0	
+555.0	1956.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.17536407766990292
+Confusion Matrix:
+2138.0	394.0	
+473.0	1939.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.17212783171521034
+Confusion Matrix:
+2072.0	372.0	
+479.0	2021.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.17233009708737865
+Confusion Matrix:
+2110.0	362.0	
+490.0	1982.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.16666666666666666
+Confusion Matrix:
+2121.0	356.0	
+468.0	1999.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.16909385113268607
+Confusion Matrix:
+2108.0	365.0	
+471.0	2000.0	
+************* Average Error Rate: 0.17534385113268608 *************
+*************[-logr -R 5] 0.17534385113268608 *************

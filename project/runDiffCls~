@@ -1,0 +1,31 @@
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -c45
+
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 1 
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 2
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 3
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 4
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 5
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 6
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 7
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 8
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 9
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 10
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 11
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 12
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 13
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 14
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 15
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 16
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 17
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 18
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 19
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -knn -K 20
+
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -logr
+
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -nb
+
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -nb -D
+
+java -jar datamining.jar -diffcls data/train.arff data/test.arff -nbt
+

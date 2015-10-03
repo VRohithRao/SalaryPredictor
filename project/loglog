@@ -1,0 +1,2488 @@
+### C4.5 smoothing applied, vary pruning confidence:
+====================
+Classifier Name: C45 Decision Tree
+Options: [-C, 0.1, -M, 2, -A, , , , , , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.09769417475728155
+Confusion Matrix:
+2344.0	167.0	
+316.0	2117.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.09911003236245955
+Confusion Matrix:
+2256.0	198.0	
+292.0	2198.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.10962783171521036
+Confusion Matrix:
+2276.0	223.0	
+319.0	2126.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.11023462783171521
+Confusion Matrix:
+2273.0	201.0	
+344.0	2126.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.10679611650485436
+Confusion Matrix:
+2250.0	197.0	
+331.0	2166.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.11387540453074434
+Confusion Matrix:
+2210.0	243.0	
+320.0	2171.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.11023462783171521
+Confusion Matrix:
+2205.0	220.0	
+325.0	2194.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.10012135922330097
+Confusion Matrix:
+2329.0	181.0	
+314.0	2120.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.10598705501618123
+Confusion Matrix:
+2265.0	206.0	
+318.0	2155.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.09789644012944984
+Confusion Matrix:
+2262.0	168.0	
+316.0	2198.0	
+************* Average Error Rate: 0.10515776699029127 *************
+*************[-c45 -C 0.1 -A] 0.10515776699029127 *************
+====================
+Classifier Name: C45 Decision Tree
+Options: [-C, 0.15, -M, 2, -A, , , , , , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.09344660194174757
+Confusion Matrix:
+2281.0	142.0	
+320.0	2201.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.09991909385113269
+Confusion Matrix:
+2311.0	153.0	
+341.0	2139.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.0904126213592233
+Confusion Matrix:
+2290.0	158.0	
+289.0	2207.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.10254854368932038
+Confusion Matrix:
+2236.0	177.0	
+330.0	2201.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.0985032362459547
+Confusion Matrix:
+2348.0	192.0	
+295.0	2109.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.10133495145631068
+Confusion Matrix:
+2263.0	175.0	
+326.0	2180.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.10477346278317153
+Confusion Matrix:
+2274.0	203.0	
+315.0	2152.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.09728964401294499
+Confusion Matrix:
+2350.0	156.0	
+325.0	2113.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.09546925566343042
+Confusion Matrix:
+2327.0	181.0	
+291.0	2145.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.0970873786407767
+Confusion Matrix:
+2334.0	194.0	
+286.0	2130.0	
+************* Average Error Rate: 0.09807847896440129 *************
+*************[-c45 -C 0.15 -A] 0.09807847896440129 *************
+====================
+Classifier Name: C45 Decision Tree
+Options: [-C, 0.2, -M, 2, -A, , , , , , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.09668284789644013
+Confusion Matrix:
+2306.0	152.0	
+326.0	2160.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.09162621359223301
+Confusion Matrix:
+2278.0	171.0	
+282.0	2213.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.08394012944983818
+Confusion Matrix:
+2299.0	136.0	
+279.0	2230.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.08292880258899676
+Confusion Matrix:
+2303.0	127.0	
+283.0	2231.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.0825242718446602
+Confusion Matrix:
+2404.0	121.0	
+287.0	2132.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.08940129449838188
+Confusion Matrix:
+2349.0	132.0	
+310.0	2153.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.0918284789644013
+Confusion Matrix:
+2320.0	152.0	
+302.0	2170.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.09385113268608414
+Confusion Matrix:
+2342.0	147.0	
+317.0	2138.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.08656957928802589
+Confusion Matrix:
+2336.0	150.0	
+278.0	2180.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.08758090614886731
+Confusion Matrix:
+2317.0	149.0	
+284.0	2194.0	
+************* Average Error Rate: 0.08869336569579288 *************
+*************[-c45 -C 0.2 -A] 0.08869336569579288 *************
+====================
+Classifier Name: C45 Decision Tree
+Options: [-C, 0.25, -M, 2, -A, , , , , , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.08555825242718447
+Confusion Matrix:
+2310.0	133.0	
+290.0	2211.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.09324433656957928
+Confusion Matrix:
+2284.0	157.0	
+304.0	2199.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.08616504854368932
+Confusion Matrix:
+2295.0	126.0	
+300.0	2223.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.07787216828478964
+Confusion Matrix:
+2337.0	140.0	
+245.0	2222.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.08394012944983818
+Confusion Matrix:
+2368.0	134.0	
+281.0	2161.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.08272653721682847
+Confusion Matrix:
+2343.0	140.0	
+269.0	2192.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.0863673139158576
+Confusion Matrix:
+2395.0	141.0	
+286.0	2122.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.09648058252427184
+Confusion Matrix:
+2350.0	179.0	
+298.0	2117.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.0889967637540453
+Confusion Matrix:
+2352.0	144.0	
+296.0	2152.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.08656957928802589
+Confusion Matrix:
+2359.0	144.0	
+284.0	2157.0	
+************* Average Error Rate: 0.086792071197411 *************
+*************[-c45 -C 0.25 -A] 0.086792071197411 *************
+====================
+Classifier Name: C45 Decision Tree
+Options: [-C, 0.3, -M, 2, -A, , , , , , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.08353559870550162
+Confusion Matrix:
+2279.0	134.0	
+279.0	2252.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.08616504854368932
+Confusion Matrix:
+2346.0	151.0	
+275.0	2172.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.08596278317152103
+Confusion Matrix:
+2348.0	128.0	
+297.0	2171.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.09283980582524272
+Confusion Matrix:
+2341.0	146.0	
+313.0	2144.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.08859223300970874
+Confusion Matrix:
+2310.0	135.0	
+303.0	2196.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.08131067961165049
+Confusion Matrix:
+2396.0	130.0	
+272.0	2146.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.0798948220064725
+Confusion Matrix:
+2383.0	122.0	
+273.0	2166.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.09243527508090615
+Confusion Matrix:
+2294.0	143.0	
+314.0	2193.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.08353559870550162
+Confusion Matrix:
+2357.0	126.0	
+287.0	2174.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.08717637540453074
+Confusion Matrix:
+2331.0	140.0	
+291.0	2182.0	
+************* Average Error Rate: 0.08614482200647247 *************
+*************[-c45 -C 0.3 -A] 0.08614482200647247 *************
+====================
+Classifier Name: C45 Decision Tree
+Options: [-C, 0.35, -M, 2, -A, , , , , , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.0904126213592233
+Confusion Matrix:
+2296.0	170.0	
+277.0	2201.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.0863673139158576
+Confusion Matrix:
+2366.0	147.0	
+280.0	2151.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.08131067961165049
+Confusion Matrix:
+2358.0	139.0	
+263.0	2184.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.08717637540453074
+Confusion Matrix:
+2306.0	152.0	
+279.0	2207.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.08353559870550162
+Confusion Matrix:
+2303.0	136.0	
+277.0	2228.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.08596278317152103
+Confusion Matrix:
+2297.0	142.0	
+283.0	2222.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.08576051779935275
+Confusion Matrix:
+2297.0	142.0	
+282.0	2223.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.08454692556634304
+Confusion Matrix:
+2335.0	129.0	
+289.0	2191.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.08980582524271845
+Confusion Matrix:
+2249.0	148.0	
+296.0	2251.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.08050161812297735
+Confusion Matrix:
+2338.0	129.0	
+269.0	2208.0	
+************* Average Error Rate: 0.08553802588996764 *************
+*************[-c45 -C 0.35 -A] 0.08553802588996764 *************
+====================
+Classifier Name: C45 Decision Tree
+Options: [-C, 0.4, -M, 2, -A, , , , , , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.08859223300970874
+Confusion Matrix:
+2329.0	150.0	
+288.0	2177.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.07908576051779935
+Confusion Matrix:
+2382.0	132.0	
+259.0	2171.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.07665857605177993
+Confusion Matrix:
+2403.0	123.0	
+256.0	2162.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.08272653721682847
+Confusion Matrix:
+2374.0	122.0	
+287.0	2161.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.07746763754045308
+Confusion Matrix:
+2333.0	129.0	
+254.0	2228.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.08313106796116505
+Confusion Matrix:
+2311.0	145.0	
+266.0	2222.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.0784789644012945
+Confusion Matrix:
+2329.0	113.0	
+275.0	2227.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.08232200647249191
+Confusion Matrix:
+2386.0	119.0	
+288.0	2151.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.0811084142394822
+Confusion Matrix:
+2381.0	120.0	
+281.0	2162.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.08555825242718447
+Confusion Matrix:
+2292.0	120.0	
+303.0	2229.0	
+************* Average Error Rate: 0.08151294498381877 *************
+*************[-c45 -C 0.4 -A] 0.08151294498381877 *************
+====================
+Classifier Name: C45 Decision Tree
+Options: [-C, 0.45, -M, 2, -A, , , , , , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.07807443365695793
+Confusion Matrix:
+2380.0	124.0	
+262.0	2178.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.08353559870550162
+Confusion Matrix:
+2338.0	136.0	
+277.0	2193.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.08555825242718447
+Confusion Matrix:
+2329.0	132.0	
+291.0	2192.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.0784789644012945
+Confusion Matrix:
+2363.0	128.0	
+260.0	2193.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.07766990291262135
+Confusion Matrix:
+2324.0	121.0	
+263.0	2236.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.08353559870550162
+Confusion Matrix:
+2321.0	123.0	
+290.0	2210.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.09021035598705501
+Confusion Matrix:
+2266.0	140.0	
+306.0	2232.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.08616504854368932
+Confusion Matrix:
+2283.0	140.0	
+286.0	2235.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.07423139158576052
+Confusion Matrix:
+2374.0	114.0	
+253.0	2203.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.08434466019417476
+Confusion Matrix:
+2333.0	141.0	
+276.0	2194.0	
+************* Average Error Rate: 0.08218042071197411 *************
+*************[-c45 -C 0.45 -A] 0.08218042071197411 *************
+====================
+Classifier Name: C45 Decision Tree
+Options: [-C, 0.5, -M, 2, -A, , , , , , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.08292880258899676
+Confusion Matrix:
+2333.0	118.0	
+292.0	2201.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.08131067961165049
+Confusion Matrix:
+2335.0	131.0	
+271.0	2207.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.07584951456310679
+Confusion Matrix:
+2387.0	120.0	
+255.0	2182.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.07423139158576052
+Confusion Matrix:
+2269.0	119.0	
+248.0	2308.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.07382686084142395
+Confusion Matrix:
+2351.0	131.0	
+234.0	2228.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.07807443365695793
+Confusion Matrix:
+2316.0	122.0	
+264.0	2242.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.08434466019417476
+Confusion Matrix:
+2274.0	139.0	
+278.0	2253.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.07949029126213593
+Confusion Matrix:
+2336.0	128.0	
+265.0	2215.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.07807443365695793
+Confusion Matrix:
+2380.0	127.0	
+259.0	2178.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.08373786407766991
+Confusion Matrix:
+2317.0	140.0	
+274.0	2213.0	
+************* Average Error Rate: 0.07918689320388352 *************
+*************[-c45 -C 0.5 -A] 0.07918689320388352 *************
+### C4.5 smoothing applied, use reduced error pruning:
+====================
+Classifier Name: C45 Decision Tree
+Options: [-R, -N, 3, -Q, 1, -M, 2, -A, , , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.10679611650485436
+Confusion Matrix:
+2302.0	152.0	
+376.0	2114.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.1090210355987055
+Confusion Matrix:
+2282.0	167.0	
+372.0	2123.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.11326860841423948
+Confusion Matrix:
+2301.0	188.0	
+372.0	2083.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.1142799352750809
+Confusion Matrix:
+2296.0	173.0	
+392.0	2083.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.11266181229773463
+Confusion Matrix:
+2251.0	192.0	
+365.0	2136.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.11003236245954692
+Confusion Matrix:
+2265.0	176.0	
+368.0	2135.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.11104368932038836
+Confusion Matrix:
+2350.0	175.0	
+374.0	2045.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.11003236245954692
+Confusion Matrix:
+2309.0	181.0	
+363.0	2091.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.1156957928802589
+Confusion Matrix:
+2301.0	186.0	
+386.0	2071.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.11003236245954692
+Confusion Matrix:
+2338.0	173.0	
+371.0	2062.0	
+************* Average Error Rate: 0.11128640776699031 *************
+*************[-c45 -R -A] 0.11128640776699031 *************
+### C4.5 smoothing applied, TURN OFF SUBTREE RAISING, vary pruning confidence:
+====================
+Classifier Name: C45 Decision Tree
+Options: [-S, -C, 0.1, -M, 2, -A, , , , , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.10396440129449838
+Confusion Matrix:
+2272.0	178.0	
+336.0	2158.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.10962783171521036
+Confusion Matrix:
+2276.0	171.0	
+371.0	2126.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.0983009708737864
+Confusion Matrix:
+2341.0	175.0	
+311.0	2117.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.10558252427184465
+Confusion Matrix:
+2300.0	215.0	
+307.0	2122.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.10436893203883495
+Confusion Matrix:
+2310.0	185.0	
+331.0	2118.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.10720064724919094
+Confusion Matrix:
+2277.0	194.0	
+336.0	2137.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.10173948220064725
+Confusion Matrix:
+2255.0	179.0	
+324.0	2186.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.1063915857605178
+Confusion Matrix:
+2294.0	175.0	
+351.0	2124.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.10194174757281553
+Confusion Matrix:
+2306.0	196.0	
+308.0	2134.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.10234627831715211
+Confusion Matrix:
+2278.0	197.0	
+309.0	2160.0	
+************* Average Error Rate: 0.10414644012944982 *************
+*************[-c45 -C 0.1 -S -A] 0.10414644012944982 *************
+====================
+Classifier Name: C45 Decision Tree
+Options: [-S, -C, 0.15, -M, 2, -A, , , , , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.09728964401294499
+Confusion Matrix:
+2334.0	173.0	
+308.0	2129.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.0904126213592233
+Confusion Matrix:
+2362.0	150.0	
+297.0	2135.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.10800970873786407
+Confusion Matrix:
+2274.0	213.0	
+321.0	2136.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.1011326860841424
+Confusion Matrix:
+2230.0	185.0	
+315.0	2214.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.09526699029126214
+Confusion Matrix:
+2282.0	177.0	
+294.0	2191.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.10153721682847897
+Confusion Matrix:
+2308.0	169.0	
+333.0	2134.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.09385113268608414
+Confusion Matrix:
+2331.0	189.0	
+275.0	2149.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.09951456310679611
+Confusion Matrix:
+2288.0	162.0	
+330.0	2164.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.09385113268608414
+Confusion Matrix:
+2276.0	162.0	
+302.0	2204.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.09870550161812297
+Confusion Matrix:
+2332.0	170.0	
+318.0	2124.0	
+************* Average Error Rate: 0.09795711974110032 *************
+*************[-c45 -C 0.15 -S -A] 0.09795711974110032 *************
+====================
+Classifier Name: C45 Decision Tree
+Options: [-S, -C, 0.2, -M, 2, -A, , , , , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.09122168284789645
+Confusion Matrix:
+2272.0	143.0	
+308.0	2221.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.09526699029126214
+Confusion Matrix:
+2278.0	171.0	
+300.0	2195.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.08515372168284789
+Confusion Matrix:
+2292.0	142.0	
+279.0	2231.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.09061488673139159
+Confusion Matrix:
+2358.0	124.0	
+324.0	2138.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.10234627831715211
+Confusion Matrix:
+2348.0	169.0	
+337.0	2090.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.09526699029126214
+Confusion Matrix:
+2272.0	168.0	
+303.0	2201.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.09546925566343042
+Confusion Matrix:
+2326.0	185.0	
+287.0	2146.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.09021035598705501
+Confusion Matrix:
+2300.0	161.0	
+285.0	2198.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.09668284789644013
+Confusion Matrix:
+2353.0	166.0	
+312.0	2113.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.09223300970873786
+Confusion Matrix:
+2260.0	184.0	
+272.0	2228.0	
+************* Average Error Rate: 0.09344660194174756 *************
+*************[-c45 -C 0.2 -S -A] 0.09344660194174756 *************
+====================
+Classifier Name: C45 Decision Tree
+Options: [-S, -C, 0.25, -M, 2, -A, , , , , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.08656957928802589
+Confusion Matrix:
+2329.0	152.0	
+276.0	2187.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.08211974110032362
+Confusion Matrix:
+2358.0	158.0	
+248.0	2180.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.08656957928802589
+Confusion Matrix:
+2412.0	123.0	
+305.0	2104.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.08656957928802589
+Confusion Matrix:
+2348.0	124.0	
+304.0	2168.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.08474919093851133
+Confusion Matrix:
+2338.0	128.0	
+291.0	2187.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.08940129449838188
+Confusion Matrix:
+2323.0	141.0	
+301.0	2179.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.08616504854368932
+Confusion Matrix:
+2334.0	143.0	
+283.0	2184.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.0811084142394822
+Confusion Matrix:
+2351.0	147.0	
+254.0	2192.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.09263754045307443
+Confusion Matrix:
+2335.0	132.0	
+326.0	2151.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.08758090614886731
+Confusion Matrix:
+2344.0	140.0	
+293.0	2167.0	
+************* Average Error Rate: 0.08634708737864076 *************
+*************[-c45 -C 0.25 -S -A] 0.08634708737864076 *************
+====================
+Classifier Name: C45 Decision Tree
+Options: [-S, -C, 0.3, -M, 2, -A, , , , , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.08090614886731391
+Confusion Matrix:
+2402.0	123.0	
+277.0	2142.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.08414239482200647
+Confusion Matrix:
+2356.0	113.0	
+303.0	2172.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.08576051779935275
+Confusion Matrix:
+2409.0	146.0	
+278.0	2111.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.08414239482200647
+Confusion Matrix:
+2287.0	145.0	
+271.0	2241.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.08434466019417476
+Confusion Matrix:
+2310.0	117.0	
+300.0	2217.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.08232200647249191
+Confusion Matrix:
+2356.0	129.0	
+278.0	2181.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.08940129449838188
+Confusion Matrix:
+2346.0	135.0	
+307.0	2156.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.0796925566343042
+Confusion Matrix:
+2327.0	116.0	
+278.0	2223.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.08576051779935275
+Confusion Matrix:
+2377.0	128.0	
+296.0	2143.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.08737864077669903
+Confusion Matrix:
+2368.0	136.0	
+296.0	2144.0	
+************* Average Error Rate: 0.0843851132686084 *************
+*************[-c45 -C 0.3 -S -A] 0.0843851132686084 *************
+====================
+Classifier Name: C45 Decision Tree
+Options: [-S, -C, 0.35, -M, 2, -A, , , , , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.07868122977346279
+Confusion Matrix:
+2318.0	137.0	
+252.0	2237.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.08960355987055016
+Confusion Matrix:
+2249.0	159.0	
+284.0	2252.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.0798948220064725
+Confusion Matrix:
+2311.0	133.0	
+262.0	2238.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.0770631067961165
+Confusion Matrix:
+2310.0	135.0	
+246.0	2253.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.07908576051779935
+Confusion Matrix:
+2378.0	124.0	
+267.0	2175.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.08029935275080906
+Confusion Matrix:
+2376.0	111.0	
+286.0	2171.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.0784789644012945
+Confusion Matrix:
+2389.0	130.0	
+258.0	2167.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.08211974110032362
+Confusion Matrix:
+2372.0	138.0	
+268.0	2166.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.08009708737864078
+Confusion Matrix:
+2338.0	142.0	
+254.0	2210.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.08272653721682847
+Confusion Matrix:
+2312.0	136.0	
+273.0	2223.0	
+************* Average Error Rate: 0.08080501618122976 *************
+*************[-c45 -C 0.35 -S -A] 0.08080501618122976 *************
+====================
+Classifier Name: C45 Decision Tree
+Options: [-S, -C, 0.4, -M, 2, -A, , , , , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.08313106796116505
+Confusion Matrix:
+2366.0	122.0	
+289.0	2167.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.08050161812297735
+Confusion Matrix:
+2337.0	143.0	
+255.0	2209.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.07746763754045308
+Confusion Matrix:
+2381.0	118.0	
+265.0	2180.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.07625404530744337
+Confusion Matrix:
+2311.0	123.0	
+254.0	2256.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.07949029126213593
+Confusion Matrix:
+2358.0	132.0	
+261.0	2193.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.08495145631067962
+Confusion Matrix:
+2294.0	132.0	
+288.0	2230.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.08373786407766991
+Confusion Matrix:
+2363.0	103.0	
+311.0	2167.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.0891990291262136
+Confusion Matrix:
+2330.0	167.0	
+274.0	2173.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.07686084142394822
+Confusion Matrix:
+2393.0	113.0	
+267.0	2171.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.08151294498381877
+Confusion Matrix:
+2355.0	126.0	
+277.0	2186.0	
+************* Average Error Rate: 0.08131067961165048 *************
+*************[-c45 -C 0.4 -S -A] 0.08131067961165048 *************
+====================
+Classifier Name: C45 Decision Tree
+Options: [-S, -C, 0.45, -M, 2, -A, , , , , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.07807443365695793
+Confusion Matrix:
+2362.0	110.0	
+276.0	2196.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.08535598705501618
+Confusion Matrix:
+2384.0	153.0	
+269.0	2138.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.07564724919093851
+Confusion Matrix:
+2355.0	114.0	
+260.0	2215.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.0825242718446602
+Confusion Matrix:
+2396.0	132.0	
+276.0	2140.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.08333333333333333
+Confusion Matrix:
+2362.0	147.0	
+265.0	2170.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.08191747572815535
+Confusion Matrix:
+2374.0	158.0	
+247.0	2165.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.08232200647249191
+Confusion Matrix:
+2296.0	126.0	
+281.0	2241.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.08232200647249191
+Confusion Matrix:
+2415.0	122.0	
+285.0	2122.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.08879449838187703
+Confusion Matrix:
+2313.0	134.0	
+305.0	2192.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.0732200647249191
+Confusion Matrix:
+2299.0	103.0	
+259.0	2283.0	
+************* Average Error Rate: 0.08135113268608414 *************
+*************[-c45 -C 0.45 -S -A] 0.08135113268608414 *************
+====================
+Classifier Name: C45 Decision Tree
+Options: [-S, -C, 0.5, -M, 2, -A, , , , , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.08090614886731391
+Confusion Matrix:
+2286.0	129.0	
+271.0	2258.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.07807443365695793
+Confusion Matrix:
+2387.0	131.0	
+255.0	2171.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.07220873786407767
+Confusion Matrix:
+2339.0	102.0	
+255.0	2248.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.07665857605177993
+Confusion Matrix:
+2366.0	132.0	
+247.0	2199.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.07099514563106796
+Confusion Matrix:
+2350.0	122.0	
+229.0	2243.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.08009708737864078
+Confusion Matrix:
+2309.0	128.0	
+268.0	2239.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.07402912621359223
+Confusion Matrix:
+2352.0	118.0	
+248.0	2226.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.08090614886731391
+Confusion Matrix:
+2383.0	118.0	
+282.0	2161.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.07827669902912622
+Confusion Matrix:
+2320.0	119.0	
+268.0	2237.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.07686084142394822
+Confusion Matrix:
+2358.0	137.0	
+243.0	2206.0	
+************* Average Error Rate: 0.07690129449838189 *************
+*************[-c45 -C 0.5 -S -A] 0.07690129449838189 *************
+### C4.5 smoothing applied, TURN OFF SUBTREE RAISING, use reduced error pruning:
+====================
+Classifier Name: C45 Decision Tree
+Options: [-S, -R, -N, 3, -Q, 1, -M, 2, -A, , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.12297734627831715
+Confusion Matrix:
+2230.0	222.0	
+386.0	2106.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.11893203883495146
+Confusion Matrix:
+2284.0	180.0	
+408.0	2072.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.12115695792880259
+Confusion Matrix:
+2271.0	188.0	
+411.0	2074.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.1078074433656958
+Confusion Matrix:
+2265.0	162.0	
+371.0	2146.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.1171116504854369
+Confusion Matrix:
+2223.0	185.0	
+394.0	2142.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.11367313915857605
+Confusion Matrix:
+2294.0	170.0	
+392.0	2088.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.12115695792880259
+Confusion Matrix:
+2333.0	179.0	
+420.0	2012.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.11529126213592233
+Confusion Matrix:
+2325.0	181.0	
+389.0	2049.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.11407766990291263
+Confusion Matrix:
+2240.0	194.0	
+370.0	2140.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.11084142394822007
+Confusion Matrix:
+2331.0	181.0	
+367.0	2065.0	
+************* Average Error Rate: 0.11630258899676375 *************
+*************[-c45 -R -S -A] 0.11630258899676375 *************
+### KNN: Vary K ###
+====================
+Classifier Name: KNN
+Options: [-K, 1, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.046521035598705504
+Confusion Matrix:
+2430.0	64.0	
+166.0	2284.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.04692556634304207
+Confusion Matrix:
+2424.0	62.0	
+170.0	2288.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.040250809061488674
+Confusion Matrix:
+2430.0	59.0	
+140.0	2315.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.04611650485436893
+Confusion Matrix:
+2390.0	47.0	
+181.0	2326.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.04611650485436893
+Confusion Matrix:
+2424.0	54.0	
+174.0	2292.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.04571197411003236
+Confusion Matrix:
+2477.0	57.0	
+169.0	2241.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.0505663430420712
+Confusion Matrix:
+2409.0	52.0	
+198.0	2285.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.04733009708737864
+Confusion Matrix:
+2422.0	48.0	
+186.0	2288.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.0505663430420712
+Confusion Matrix:
+2429.0	53.0	
+197.0	2265.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.04348705501618123
+Confusion Matrix:
+2476.0	39.0	
+176.0	2253.0	
+************* Average Error Rate: 0.04635922330097087 *************
+*************[-c45 -K 1] 0.04635922330097087 *************
+====================
+Classifier Name: KNN
+Options: [-K, 2, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.10234627831715211
+Confusion Matrix:
+2355.0	96.0	
+410.0	2083.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.09364886731391586
+Confusion Matrix:
+2416.0	102.0	
+361.0	2065.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.09142394822006472
+Confusion Matrix:
+2383.0	92.0	
+360.0	2109.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.09445792880258899
+Confusion Matrix:
+2363.0	96.0	
+371.0	2114.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.09809870550161812
+Confusion Matrix:
+2382.0	94.0	
+391.0	2077.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.09668284789644013
+Confusion Matrix:
+2380.0	102.0	
+376.0	2086.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.09486245954692557
+Confusion Matrix:
+2421.0	85.0	
+384.0	2054.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.09122168284789645
+Confusion Matrix:
+2379.0	94.0	
+357.0	2114.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.09749190938511326
+Confusion Matrix:
+2414.0	100.0	
+382.0	2048.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.09526699029126214
+Confusion Matrix:
+2311.0	106.0	
+365.0	2162.0	
+************* Average Error Rate: 0.09555016181229774 *************
+*************[-c45 -K 2] 0.09555016181229774 *************
+====================
+Classifier Name: KNN
+Options: [-K, 3, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.1409789644012945
+Confusion Matrix:
+2324.0	170.0	
+527.0	1923.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.13106796116504854
+Confusion Matrix:
+2364.0	150.0	
+498.0	1932.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.13228155339805825
+Confusion Matrix:
+2320.0	166.0	
+488.0	1970.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.13774271844660194
+Confusion Matrix:
+2281.0	174.0	
+507.0	1982.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.13814724919093851
+Confusion Matrix:
+2308.0	169.0	
+514.0	1953.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.13106796116504854
+Confusion Matrix:
+2298.0	150.0	
+498.0	1998.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.13066343042071196
+Confusion Matrix:
+2312.0	177.0	
+469.0	1986.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.13774271844660194
+Confusion Matrix:
+2314.0	165.0	
+516.0	1949.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.1288430420711974
+Confusion Matrix:
+2303.0	156.0	
+481.0	2004.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.12843851132686085
+Confusion Matrix:
+2305.0	144.0	
+491.0	2004.0	
+************* Average Error Rate: 0.13369741100323623 *************
+*************[-c45 -K 3] 0.13369741100323623 *************
+====================
+Classifier Name: KNN
+Options: [-K, 4, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.156957928802589
+Confusion Matrix:
+2287.0	140.0	
+636.0	1881.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.1486650485436893
+Confusion Matrix:
+2340.0	134.0	
+601.0	1869.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.1486650485436893
+Confusion Matrix:
+2301.0	174.0	
+561.0	1908.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.15250809061488674
+Confusion Matrix:
+2290.0	171.0	
+583.0	1900.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.15169902912621358
+Confusion Matrix:
+2270.0	175.0	
+575.0	1924.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.15574433656957928
+Confusion Matrix:
+2298.0	170.0	
+600.0	1876.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.15614886731391586
+Confusion Matrix:
+2251.0	135.0	
+637.0	1921.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.15655339805825244
+Confusion Matrix:
+2318.0	191.0	
+583.0	1852.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.1571601941747573
+Confusion Matrix:
+2253.0	169.0	
+608.0	1914.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.15068770226537218
+Confusion Matrix:
+2228.0	174.0	
+571.0	1971.0	
+************* Average Error Rate: 0.1534789644012945 *************
+*************[-c45 -K 4] 0.1534789644012945 *************
+====================
+Classifier Name: KNN
+Options: [-K, 5, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.1662621359223301
+Confusion Matrix:
+2301.0	230.0	
+592.0	1821.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.15776699029126215
+Confusion Matrix:
+2243.0	189.0	
+591.0	1921.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.16444174757281554
+Confusion Matrix:
+2291.0	243.0	
+570.0	1840.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.1610032362459547
+Confusion Matrix:
+2257.0	219.0	
+577.0	1891.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.16808252427184467
+Confusion Matrix:
+2184.0	261.0	
+570.0	1929.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.1660598705501618
+Confusion Matrix:
+2285.0	215.0	
+606.0	1838.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.16444174757281554
+Confusion Matrix:
+2183.0	218.0	
+595.0	1948.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.16909385113268607
+Confusion Matrix:
+2256.0	234.0	
+602.0	1852.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.15513754045307443
+Confusion Matrix:
+2309.0	201.0	
+566.0	1868.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.16423948220064724
+Confusion Matrix:
+2220.0	230.0	
+582.0	1912.0	
+************* Average Error Rate: 0.16365291262135923 *************
+*************[-c45 -K 5] 0.16365291262135923 *************
+====================
+Classifier Name: KNN
+Options: [-K, 6, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.16747572815533981
+Confusion Matrix:
+2243.0	177.0	
+651.0	1873.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.16788025889967637
+Confusion Matrix:
+2257.0	228.0	
+602.0	1857.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.16525080906148867
+Confusion Matrix:
+2282.0	196.0	
+621.0	1845.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.1514967637540453
+Confusion Matrix:
+2292.0	201.0	
+548.0	1903.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.16444174757281554
+Confusion Matrix:
+2246.0	238.0	
+575.0	1885.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.17212783171521034
+Confusion Matrix:
+2272.0	220.0	
+631.0	1821.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.1593851132686084
+Confusion Matrix:
+2266.0	201.0	
+587.0	1890.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.16565533980582525
+Confusion Matrix:
+2273.0	184.0	
+635.0	1852.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.16262135922330098
+Confusion Matrix:
+2294.0	232.0	
+572.0	1846.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.15372168284789645
+Confusion Matrix:
+2263.0	184.0	
+576.0	1921.0	
+************* Average Error Rate: 0.16300566343042072 *************
+*************[-c45 -K 6] 0.16300566343042072 *************
+====================
+Classifier Name: KNN
+Options: [-K, 7, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.17455501618122976
+Confusion Matrix:
+2175.0	248.0	
+615.0	1906.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.17233009708737865
+Confusion Matrix:
+2254.0	257.0	
+595.0	1838.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.16161003236245955
+Confusion Matrix:
+2237.0	249.0	
+550.0	1908.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.17030744336569578
+Confusion Matrix:
+2253.0	294.0	
+548.0	1849.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.1727346278317152
+Confusion Matrix:
+2263.0	247.0	
+607.0	1827.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.1701051779935275
+Confusion Matrix:
+2242.0	265.0	
+576.0	1861.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.1767799352750809
+Confusion Matrix:
+2138.0	299.0	
+575.0	1932.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.16120550161812297
+Confusion Matrix:
+2205.0	242.0	
+555.0	1942.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.1676779935275081
+Confusion Matrix:
+2230.0	266.0	
+563.0	1885.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.16970064724919093
+Confusion Matrix:
+2219.0	268.0	
+571.0	1886.0	
+************* Average Error Rate: 0.16970064724919093 *************
+*************[-c45 -K 7] 0.16970064724919093 *************
+====================
+Classifier Name: KNN
+Options: [-K, 8, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.16464401294498382
+Confusion Matrix:
+2291.0	239.0	
+575.0	1839.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.17334142394822005
+Confusion Matrix:
+2203.0	263.0	
+594.0	1884.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.1660598705501618
+Confusion Matrix:
+2254.0	264.0	
+557.0	1869.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.17131877022653721
+Confusion Matrix:
+2252.0	264.0	
+583.0	1845.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.17313915857605178
+Confusion Matrix:
+2248.0	229.0	
+627.0	1840.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.17030744336569578
+Confusion Matrix:
+2244.0	291.0	
+551.0	1858.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.15857605177993528
+Confusion Matrix:
+2280.0	225.0	
+559.0	1880.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.17091423948220064
+Confusion Matrix:
+2172.0	252.0	
+593.0	1927.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.16828478964401294
+Confusion Matrix:
+2305.0	214.0	
+618.0	1807.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.17030744336569578
+Confusion Matrix:
+2185.0	249.0	
+593.0	1917.0	
+************* Average Error Rate: 0.1686893203883495 *************
+*************[-c45 -K 8] 0.1686893203883495 *************
+====================
+Classifier Name: KNN
+Options: [-K, 9, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.16585760517799353
+Confusion Matrix:
+2215.0	263.0	
+557.0	1909.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.17516181229773461
+Confusion Matrix:
+2164.0	296.0	
+570.0	1914.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.17313915857605178
+Confusion Matrix:
+2188.0	272.0	
+584.0	1900.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.1824433656957929
+Confusion Matrix:
+2148.0	285.0	
+617.0	1894.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.17860032362459546
+Confusion Matrix:
+2199.0	283.0	
+600.0	1862.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.17050970873786409
+Confusion Matrix:
+2138.0	307.0	
+536.0	1963.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.17940938511326862
+Confusion Matrix:
+2159.0	315.0	
+572.0	1898.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.17334142394822005
+Confusion Matrix:
+2209.0	293.0	
+564.0	1878.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.17030744336569578
+Confusion Matrix:
+2167.0	274.0	
+568.0	1935.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.1729368932038835
+Confusion Matrix:
+2174.0	279.0	
+576.0	1915.0	
+************* Average Error Rate: 0.17417071197411002 *************
+*************[-c45 -K 9] 0.17417071197411002 *************
+====================
+Classifier Name: KNN
+Options: [-K, 10, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.16949838187702265
+Confusion Matrix:
+2195.0	260.0	
+578.0	1911.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.18264563106796117
+Confusion Matrix:
+2208.0	291.0	
+612.0	1833.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.17091423948220064
+Confusion Matrix:
+2186.0	256.0	
+589.0	1913.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.17334142394822005
+Confusion Matrix:
+2261.0	289.0	
+568.0	1826.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.17738673139158576
+Confusion Matrix:
+2233.0	260.0	
+617.0	1834.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.16808252427184467
+Confusion Matrix:
+2212.0	250.0	
+581.0	1901.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.15776699029126215
+Confusion Matrix:
+2262.0	233.0	
+547.0	1902.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.17900485436893204
+Confusion Matrix:
+2182.0	283.0	
+602.0	1877.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.18567961165048544
+Confusion Matrix:
+2179.0	291.0	
+627.0	1847.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.1676779935275081
+Confusion Matrix:
+2251.0	235.0	
+594.0	1864.0	
+************* Average Error Rate: 0.1731998381877023 *************
+*************[-c45 -K 10] 0.1731998381877023 *************
+====================
+Classifier Name: KNN
+Options: [-K, 11, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.1676779935275081
+Confusion Matrix:
+2175.0	296.0	
+533.0	1940.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.17030744336569578
+Confusion Matrix:
+2205.0	283.0	
+559.0	1897.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.17030744336569578
+Confusion Matrix:
+2194.0	304.0	
+538.0	1908.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.17212783171521034
+Confusion Matrix:
+2195.0	325.0	
+526.0	1898.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.17920711974110032
+Confusion Matrix:
+2248.0	308.0	
+578.0	1810.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.16707119741100324
+Confusion Matrix:
+2200.0	282.0	
+544.0	1918.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.1717233009708738
+Confusion Matrix:
+2203.0	297.0	
+552.0	1892.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.1739482200647249
+Confusion Matrix:
+2174.0	310.0	
+550.0	1910.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.1650485436893204
+Confusion Matrix:
+2230.0	279.0	
+537.0	1898.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.17940938511326862
+Confusion Matrix:
+2154.0	291.0	
+596.0	1903.0	
+************* Average Error Rate: 0.17168284789644012 *************
+*************[-c45 -K 11] 0.17168284789644012 *************
+====================
+Classifier Name: KNN
+Options: [-K, 12, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.17091423948220064
+Confusion Matrix:
+2163.0	273.0	
+572.0	1936.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.16970064724919093
+Confusion Matrix:
+2202.0	260.0	
+579.0	1903.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.16747572815533981
+Confusion Matrix:
+2195.0	244.0	
+584.0	1921.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.17657766990291263
+Confusion Matrix:
+2222.0	298.0	
+575.0	1849.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.17334142394822005
+Confusion Matrix:
+2206.0	284.0	
+573.0	1881.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.16039644012944984
+Confusion Matrix:
+2147.0	257.0	
+536.0	2004.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.16828478964401294
+Confusion Matrix:
+2242.0	300.0	
+532.0	1870.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.17940938511326862
+Confusion Matrix:
+2187.0	313.0	
+574.0	1870.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.17738673139158576
+Confusion Matrix:
+2152.0	286.0	
+591.0	1915.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.1662621359223301
+Confusion Matrix:
+2242.0	250.0	
+572.0	1880.0	
+************* Average Error Rate: 0.17097491909385112 *************
+*************[-c45 -K 12] 0.17097491909385112 *************
+====================
+Classifier Name: KNN
+Options: [-K, 13, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.17091423948220064
+Confusion Matrix:
+2120.0	304.0	
+541.0	1979.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.17779126213592233
+Confusion Matrix:
+2112.0	323.0	
+556.0	1953.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.18122977346278318
+Confusion Matrix:
+2172.0	320.0	
+576.0	1876.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.17738673139158576
+Confusion Matrix:
+2128.0	310.0	
+567.0	1939.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.17111650485436894
+Confusion Matrix:
+2188.0	312.0	
+534.0	1910.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.18264563106796117
+Confusion Matrix:
+2150.0	310.0	
+593.0	1891.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.17192556634304207
+Confusion Matrix:
+2159.0	268.0	
+582.0	1935.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.17738673139158576
+Confusion Matrix:
+2202.0	311.0	
+566.0	1865.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.17738673139158576
+Confusion Matrix:
+2152.0	331.0	
+546.0	1915.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.18446601941747573
+Confusion Matrix:
+2136.0	325.0	
+587.0	1896.0	
+************* Average Error Rate: 0.17722491909385113 *************
+*************[-c45 -K 13] 0.17722491909385113 *************
+====================
+Classifier Name: KNN
+Options: [-K, 14, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.17880258899676377
+Confusion Matrix:
+2123.0	314.0	
+570.0	1937.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.18021844660194175
+Confusion Matrix:
+2145.0	277.0	
+614.0	1908.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.17131877022653721
+Confusion Matrix:
+2155.0	269.0	
+578.0	1942.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.18709546925566342
+Confusion Matrix:
+2179.0	330.0	
+595.0	1840.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.18406148867313915
+Confusion Matrix:
+2167.0	314.0	
+596.0	1867.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.1741504854368932
+Confusion Matrix:
+2187.0	305.0	
+556.0	1896.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.17435275080906149
+Confusion Matrix:
+2222.0	288.0	
+574.0	1860.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.18062297734627833
+Confusion Matrix:
+2138.0	291.0	
+602.0	1913.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.17030744336569578
+Confusion Matrix:
+2230.0	279.0	
+563.0	1872.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.17354368932038836
+Confusion Matrix:
+2105.0	320.0	
+538.0	1981.0	
+************* Average Error Rate: 0.17744741100323624 *************
+*************[-c45 -K 14] 0.17744741100323624 *************
+====================
+Classifier Name: KNN
+Options: [-K, 15, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.18062297734627833
+Confusion Matrix:
+2169.0	331.0	
+562.0	1882.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.17738673139158576
+Confusion Matrix:
+2112.0	305.0	
+572.0	1955.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.17253236245954692
+Confusion Matrix:
+2165.0	323.0	
+530.0	1926.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.1779935275080906
+Confusion Matrix:
+2204.0	318.0	
+562.0	1860.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.17657766990291263
+Confusion Matrix:
+2176.0	326.0	
+547.0	1895.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.1779935275080906
+Confusion Matrix:
+2225.0	307.0	
+573.0	1839.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.17758899676375406
+Confusion Matrix:
+2143.0	324.0	
+554.0	1923.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.18689320388349515
+Confusion Matrix:
+2182.0	329.0	
+595.0	1838.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.1701051779935275
+Confusion Matrix:
+2192.0	286.0	
+555.0	1911.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.1808252427184466
+Confusion Matrix:
+2200.0	300.0	
+594.0	1850.0	
+************* Average Error Rate: 0.17785194174757282 *************
+*************[-c45 -K 15] 0.17785194174757282 *************
+====================
+Classifier Name: KNN
+Options: [-K, 16, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.1727346278317152
+Confusion Matrix:
+2176.0	298.0	
+556.0	1914.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.18163430420711973
+Confusion Matrix:
+2157.0	316.0	
+582.0	1889.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.18042071197411003
+Confusion Matrix:
+2174.0	309.0	
+583.0	1878.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.1858818770226537
+Confusion Matrix:
+2124.0	312.0	
+607.0	1901.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.1741504854368932
+Confusion Matrix:
+2129.0	282.0	
+579.0	1954.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.16423948220064724
+Confusion Matrix:
+2234.0	254.0	
+558.0	1898.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.17617313915857605
+Confusion Matrix:
+2166.0	296.0	
+575.0	1907.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.17455501618122976
+Confusion Matrix:
+2187.0	321.0	
+542.0	1894.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.17779126213592233
+Confusion Matrix:
+2183.0	299.0	
+580.0	1882.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.17738673139158576
+Confusion Matrix:
+2153.0	298.0	
+579.0	1914.0	
+************* Average Error Rate: 0.1764967637540453 *************
+*************[-c45 -K 16] 0.1764967637540453 *************
+====================
+Classifier Name: KNN
+Options: [-K, 17, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.17374595469255663
+Confusion Matrix:
+2193.0	282.0	
+577.0	1892.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.1862864077669903
+Confusion Matrix:
+2151.0	320.0	
+601.0	1872.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.1783980582524272
+Confusion Matrix:
+2165.0	329.0	
+553.0	1897.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.1796116504854369
+Confusion Matrix:
+2086.0	341.0	
+547.0	1970.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.17657766990291263
+Confusion Matrix:
+2163.0	340.0	
+533.0	1908.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.17597087378640777
+Confusion Matrix:
+2192.0	329.0	
+541.0	1882.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.17576860841423947
+Confusion Matrix:
+2142.0	312.0	
+557.0	1933.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.1715210355987055
+Confusion Matrix:
+2161.0	285.0	
+563.0	1935.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.1822411003236246
+Confusion Matrix:
+2129.0	326.0	
+575.0	1914.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.17354368932038836
+Confusion Matrix:
+2139.0	318.0	
+540.0	1947.0	
+************* Average Error Rate: 0.17736650485436894 *************
+*************[-c45 -K 17] 0.17736650485436894 *************
+====================
+Classifier Name: KNN
+Options: [-K, 18, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.17374595469255663
+Confusion Matrix:
+2135.0	281.0	
+578.0	1950.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.17981391585760517
+Confusion Matrix:
+2153.0	292.0	
+597.0	1902.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.17576860841423947
+Confusion Matrix:
+2204.0	312.0	
+557.0	1871.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.18163430420711973
+Confusion Matrix:
+2118.0	293.0	
+605.0	1928.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.1781957928802589
+Confusion Matrix:
+2208.0	307.0	
+574.0	1855.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.18406148867313915
+Confusion Matrix:
+2100.0	296.0	
+614.0	1934.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.17940938511326862
+Confusion Matrix:
+2193.0	326.0	
+561.0	1864.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.1701051779935275
+Confusion Matrix:
+2186.0	301.0	
+540.0	1917.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.17131877022653721
+Confusion Matrix:
+2167.0	289.0	
+558.0	1930.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.1783980582524272
+Confusion Matrix:
+2210.0	326.0	
+556.0	1852.0	
+************* Average Error Rate: 0.17724514563106794 *************
+*************[-c45 -K 18] 0.17724514563106794 *************
+====================
+Classifier Name: KNN
+Options: [-K, 19, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.1848705501618123
+Confusion Matrix:
+2078.0	320.0	
+594.0	1952.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.18042071197411003
+Confusion Matrix:
+2092.0	337.0	
+555.0	1960.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.17698220064724918
+Confusion Matrix:
+2096.0	323.0	
+552.0	1973.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.17536407766990292
+Confusion Matrix:
+2168.0	316.0	
+551.0	1909.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.16828478964401294
+Confusion Matrix:
+2154.0	319.0	
+513.0	1958.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.16949838187702265
+Confusion Matrix:
+2111.0	299.0	
+539.0	1995.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.1824433656957929
+Confusion Matrix:
+2119.0	331.0	
+571.0	1923.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.17880258899676377
+Confusion Matrix:
+2205.0	333.0	
+551.0	1855.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.16646440129449838
+Confusion Matrix:
+2130.0	306.0	
+517.0	1991.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.17253236245954692
+Confusion Matrix:
+2105.0	323.0	
+530.0	1986.0	
+************* Average Error Rate: 0.17556634304207122 *************
+*************[-c45 -K 19] 0.17556634304207122 *************
+====================
+Classifier Name: KNN
+Options: [-K, 20, -W, 0, -A, weka.core.neighboursearch.LinearNNSearch -A "weka.core.EuclideanDistance -R first-last", , , , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.17900485436893204
+Confusion Matrix:
+2161.0	293.0	
+592.0	1898.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.18385922330097088
+Confusion Matrix:
+2219.0	302.0	
+607.0	1816.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.1727346278317152
+Confusion Matrix:
+2133.0	330.0	
+524.0	1957.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.16808252427184467
+Confusion Matrix:
+2165.0	307.0	
+524.0	1948.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.17253236245954692
+Confusion Matrix:
+2193.0	287.0	
+566.0	1898.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.18305016181229775
+Confusion Matrix:
+2131.0	341.0	
+564.0	1908.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.17920711974110032
+Confusion Matrix:
+2141.0	328.0	
+558.0	1917.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.17071197411003236
+Confusion Matrix:
+2196.0	288.0	
+556.0	1904.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.17880258899676377
+Confusion Matrix:
+2148.0	332.0	
+552.0	1912.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.18042071197411003
+Confusion Matrix:
+2166.0	285.0	
+607.0	1886.0	
+************* Average Error Rate: 0.17684061488673136 *************
+*************[-c45 -K 20] 0.17684061488673136 *************
+### Logistic Regression: Default settings ###
+====================
+Classifier Name: Logistic Regression
+Options: [-I, 0, -M, 500, -H, 50, -W, 0.0, , , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.17698220064724918
+Confusion Matrix:
+2081.0	374.0	
+501.0	1988.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.1715210355987055
+Confusion Matrix:
+2088.0	331.0	
+517.0	2008.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.18608414239482202
+Confusion Matrix:
+2078.0	395.0	
+525.0	1946.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.17657766990291263
+Confusion Matrix:
+2096.0	366.0	
+507.0	1975.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.1779935275080906
+Confusion Matrix:
+2139.0	393.0	
+487.0	1925.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.17779126213592233
+Confusion Matrix:
+2066.0	393.0	
+486.0	1999.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.18143203883495146
+Confusion Matrix:
+2076.0	410.0	
+487.0	1971.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.17435275080906149
+Confusion Matrix:
+2148.0	330.0	
+532.0	1934.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.1729368932038835
+Confusion Matrix:
+2112.0	367.0	
+488.0	1977.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.17617313915857605
+Confusion Matrix:
+2106.0	375.0	
+496.0	1967.0	
+************* Average Error Rate: 0.17718446601941748 *************
+*************[-logr] 0.17718446601941748 *************
+### Naive Bayes: Default settings ###
+====================
+Classifier Name: Naive Bayes
+Options: [, , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.23624595469255663
+Confusion Matrix:
+1515.0	966.0	
+202.0	2261.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.24656148867313915
+Confusion Matrix:
+1439.0	1008.0	
+211.0	2286.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.2447411003236246
+Confusion Matrix:
+1483.0	1004.0	
+206.0	2251.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.24029126213592233
+Confusion Matrix:
+1459.0	960.0	
+228.0	2297.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.24757281553398058
+Confusion Matrix:
+1474.0	1006.0	
+218.0	2246.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.2366504854368932
+Confusion Matrix:
+1437.0	973.0	
+197.0	2337.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.24757281553398058
+Confusion Matrix:
+1543.0	982.0	
+242.0	2177.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.24433656957928804
+Confusion Matrix:
+1472.0	989.0	
+219.0	2264.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.23745954692556634
+Confusion Matrix:
+1505.0	975.0	
+199.0	2265.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.24959546925566342
+Confusion Matrix:
+1503.0	1015.0	
+219.0	2207.0	
+************* Average Error Rate: 0.24310275080906146 *************
+*************[-nb] 0.24310275080906146 *************
+### Naive Bayes: Discretize the numeric features ###
+====================
+Classifier Name: Naive Bayes
+Options: [-D, , ]
+INFO - Statistics for 1th fold: 
+Error rate: 0.16525080906148867
+Confusion Matrix:
+2181.0	269.0	
+548.0	1946.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.1688915857605178
+Confusion Matrix:
+2214.0	288.0	
+547.0	1895.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.16302588996763753
+Confusion Matrix:
+2210.0	294.0	
+512.0	1928.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.16140776699029127
+Confusion Matrix:
+2161.0	281.0	
+517.0	1985.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.17738673139158576
+Confusion Matrix:
+2180.0	304.0	
+573.0	1887.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.17233009708737865
+Confusion Matrix:
+2204.0	302.0	
+550.0	1888.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.16929611650485438
+Confusion Matrix:
+2185.0	296.0	
+541.0	1922.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.17091423948220064
+Confusion Matrix:
+2170.0	310.0	
+535.0	1929.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.156957928802589
+Confusion Matrix:
+2187.0	274.0	
+502.0	1981.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.1662621359223301
+Confusion Matrix:
+2189.0	300.0	
+522.0	1933.0	
+************* Average Error Rate: 0.1671723300970874 *************
+*************[-nb -D] 0.1671723300970874 *************
+### NaiveBayes Decision Tree ###
+====================
+Classifier Name: Naive Bayes Decision Tree
+Options: []
+INFO - Statistics for 1th fold: 
+Error rate: 0.16788025889967637
+Confusion Matrix:
+2133.0	287.0	
+543.0	1981.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.1660598705501618
+Confusion Matrix:
+2175.0	265.0	
+556.0	1948.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.16868932038834952
+Confusion Matrix:
+2181.0	329.0	
+505.0	1929.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.1529126213592233
+Confusion Matrix:
+2181.0	239.0	
+517.0	2007.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.1729368932038835
+Confusion Matrix:
+2150.0	305.0	
+550.0	1939.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.16565533980582525
+Confusion Matrix:
+2229.0	291.0	
+528.0	1896.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.16181229773462782
+Confusion Matrix:
+2229.0	268.0	
+532.0	1915.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.16464401294498382
+Confusion Matrix:
+2162.0	264.0	
+550.0	1968.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.16970064724919093
+Confusion Matrix:
+2155.0	347.0	
+492.0	1950.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.17374595469255663
+Confusion Matrix:
+2112.0	311.0	
+548.0	1973.0	
+************* Average Error Rate: 0.16640372168284787 *************
+*************[-nbt] 0.16640372168284787 *************
+### SMO ###
+====================
+Classifier Name: SMO
+Options: [-C, 0.0, -L, 0.001, -P, 1.0E-12, -N, 0, -V, -1, -W, 1, -K, weka.classifiers.functions.supportVector.PolyKernel -C 250007 -E 1.0]
+INFO - Statistics for 1th fold: 
+Error rate: 0.5032362459546925
+Confusion Matrix:
+2456.0	0.0	
+2488.0	0.0	
+INFO - Statistics for 2th fold: 
+Error rate: 0.498584142394822
+Confusion Matrix:
+2479.0	0.0	
+2465.0	0.0	
+INFO - Statistics for 3th fold: 
+Error rate: 0.4830097087378641
+Confusion Matrix:
+2556.0	0.0	
+2388.0	0.0	
+INFO - Statistics for 4th fold: 
+Error rate: 0.50707928802589
+Confusion Matrix:
+2437.0	0.0	
+2507.0	0.0	
+INFO - Statistics for 5th fold: 
+Error rate: 0.4947411003236246
+Confusion Matrix:
+2498.0	0.0	
+2446.0	0.0	
+INFO - Statistics for 6th fold: 
+Error rate: 0.49413430420711973
+Confusion Matrix:
+2501.0	0.0	
+2443.0	0.0	
+INFO - Statistics for 7th fold: 
+Error rate: 0.5058656957928802
+Confusion Matrix:
+2443.0	0.0	
+2501.0	0.0	
+INFO - Statistics for 8th fold: 
+Error rate: 0.48644822006472493
+Confusion Matrix:
+2539.0	0.0	
+2405.0	0.0	
+INFO - Statistics for 9th fold: 
+Error rate: 0.4933252427184466
+Confusion Matrix:
+2505.0	0.0	
+2439.0	0.0	
+INFO - Statistics for 10th fold: 
+Error rate: 0.5036407766990292
+Confusion Matrix:
+2454.0	0.0	
+2490.0	0.0	
+************* Average Error Rate: 0.49700647249190943 *************
+*************[-smo [-C, 0.0, -L, 0.0010, -P, 1.0E-12, -K, weka.classifiers.functions.supportVector.PolyKernel -E 1.0] ] 0.49700647249190943 *************
+====================
+Classifier Name: SMO
+Options: [-C, 1.0, -L, 0.001, -P, 1.0E-12, -N, 0, -V, -1, -W, 1, -K, weka.classifiers.functions.supportVector.PolyKernel -C 250007 -E 1.0]

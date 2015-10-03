@@ -1,0 +1,22 @@
+#!/bin/bash
+
+java -jar datamining.jar -knn -K 1 train.arff test.arff
+echo "KNN K=1 done."
+
+java -jar datamining.jar -knn -K 3 train.arff test.arff
+echo "KNN K=3 done."
+
+java -jar datamining.jar -id3 train.arff test.arff
+echo "ID3 DT done."
+
+java -jar datamining.jar -c45 train.arff test.arff
+echo "C45 DT done."
+
+java -jar datamining.jar -logreg train.arff test.arff
+echo "Logistic Regression done."
+
+java -jar datamining.jar -smo train.arff test.arff
+echo "SMO done."
+
+java -jar datamining.jar -nb train.arff test.arff
+echo "Naive Bayes done."
